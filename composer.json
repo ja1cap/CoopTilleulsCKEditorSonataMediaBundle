@@ -1,5 +1,5 @@
 {
-    "name": "tilleuls/ckeditor-sonata-media-bundle",
+    "name": "weasty/tilleuls-ckeditor-sonata-media-bundle",
     "type": "symfony-bundle",
     "description": "Integrates SonataMediaBundle with CKEditor",
     "keywords": ["media", "ckeditor", "upload", "file", "image", "sonata"],
