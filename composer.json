@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "sonata-project/media-bundle": "^2.3 || ^3.0"
+        "sonata-project/media-bundle": "*"
     },
     "suggest": {
        "egeloen/ckeditor-bundle": "for easy Symfony integration"
@@ -21,10 +21,5 @@
     "autoload": {
         "psr-0": { "CoopTilleuls\\Bundle\\CKEditorSonataMediaBundle": "" }
     },
-    "target-dir": "CoopTilleuls/Bundle/CKEditorSonataMediaBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.3.x-dev"
-        }
-    }
+    "target-dir": "CoopTilleuls/Bundle/CKEditorSonataMediaBundle"
 }
