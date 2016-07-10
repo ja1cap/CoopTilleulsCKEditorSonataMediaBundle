@@ -10,6 +10,11 @@
             "name": "Kévin Dunglas",
             "email": "kevin@les-tilleuls.coop",
             "homepage": "http://dunglas.fr"
+        },
+        {
+            "name": "ja1cap",
+            "email": "ja1cap@weasty.com",
+            "homepage": "http://weasty.com"
         }
     ],
     "require": {
